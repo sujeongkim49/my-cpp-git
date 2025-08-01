@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\04\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C859FAB5-7C06-47FB-9C66-917C4A02BAA9}|04\\04.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\04\\04\\04-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C859FAB5-7C06-47FB-9C66-917C4A02BAA9}|04\\04.vcxproj|solutionrelative:04\\04-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C859FAB5-7C06-47FB-9C66-917C4A02BAA9}|04\\04.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\04\\04\\04_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C859FAB5-7C06-47FB-9C66-917C4A02BAA9}|04\\04.vcxproj|solutionrelative:04\\04_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "04-4.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\04\\04\\04-4.cpp",
+              "RelativeDocumentMoniker": "04\\04-4.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\04\\04\\04-4.cpp",
+              "RelativeToolTip": "04\\04-4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T10:00:55.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "04_3.cpp",
               "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\04\\04\\04_3.cpp",
               "RelativeDocumentMoniker": "04\\04_3.cpp",
               "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\04\\04\\04_3.cpp",
               "RelativeToolTip": "04\\04_3.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-31T09:34:38.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "04_2.cpp",
               "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\04\\04\\04_2.cpp",
               "RelativeDocumentMoniker": "04\\04_2.cpp",
@@ -56,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "04_1.cpp",
               "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\04\\04\\04_1.cpp",
               "RelativeDocumentMoniker": "04\\04_1.cpp",
