@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51DF2CCC-3064-45AC-89F8-99E67B7F81FA}|Project06\\Project06.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06\\Project06\\06_9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51DF2CCC-3064-45AC-89F8-99E67B7F81FA}|Project06\\Project06.vcxproj|solutionrelative:Project06\\06_9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51DF2CCC-3064-45AC-89F8-99E67B7F81FA}|Project06\\Project06.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06\\Project06\\06_8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51DF2CCC-3064-45AC-89F8-99E67B7F81FA}|Project06\\Project06.vcxproj|solutionrelative:Project06\\06_8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "06_9.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06\\Project06\\06_9.cpp",
+              "RelativeDocumentMoniker": "Project06\\06_9.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06\\Project06\\06_9.cpp",
+              "RelativeToolTip": "Project06\\06_9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T15:42:59.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "06_8.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06\\Project06\\06_8.cpp",
+              "RelativeDocumentMoniker": "Project06\\06_8.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06\\Project06\\06_8.cpp",
+              "RelativeToolTip": "Project06\\06_8.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T15:35:33.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
