@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{295700F4-D4C6-4875-B102-922B129053AA}|Project06_test\\Project06_test.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06_test\\Project06_test\\test13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295700F4-D4C6-4875-B102-922B129053AA}|Project06_test\\Project06_test.vcxproj|solutionrelative:Project06_test\\test13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295700F4-D4C6-4875-B102-922B129053AA}|Project06_test\\Project06_test.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06_test\\Project06_test\\test12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295700F4-D4C6-4875-B102-922B129053AA}|Project06_test\\Project06_test.vcxproj|solutionrelative:Project06_test\\test12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295700F4-D4C6-4875-B102-922B129053AA}|Project06_test\\Project06_test.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06_test\\Project06_test\\test11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295700F4-D4C6-4875-B102-922B129053AA}|Project06_test\\Project06_test.vcxproj|solutionrelative:Project06_test\\test11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295700F4-D4C6-4875-B102-922B129053AA}|Project06_test\\Project06_test.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06_test\\Project06_test\\test10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295700F4-D4C6-4875-B102-922B129053AA}|Project06_test\\Project06_test.vcxproj|solutionrelative:Project06_test\\test10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295700F4-D4C6-4875-B102-922B129053AA}|Project06_test\\Project06_test.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06_test\\Project06_test\\test14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295700F4-D4C6-4875-B102-922B129053AA}|Project06_test\\Project06_test.vcxproj|solutionrelative:Project06_test\\test14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test14.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06_test\\Project06_test\\test14.cpp",
+              "RelativeDocumentMoniker": "Project06_test\\test14.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06_test\\Project06_test\\test14.cpp",
+              "RelativeToolTip": "Project06_test\\test14.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T15:58:18.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test13.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06_test\\Project06_test\\test13.cpp",
+              "RelativeDocumentMoniker": "Project06_test\\test13.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06_test\\Project06_test\\test13.cpp",
+              "RelativeToolTip": "Project06_test\\test13.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T15:58:12.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test12.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06_test\\Project06_test\\test12.cpp",
+              "RelativeDocumentMoniker": "Project06_test\\test12.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06_test\\Project06_test\\test12.cpp",
+              "RelativeToolTip": "Project06_test\\test12.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T15:58:06.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test11.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06_test\\Project06_test\\test11.cpp",
+              "RelativeDocumentMoniker": "Project06_test\\test11.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06_test\\Project06_test\\test11.cpp",
+              "RelativeToolTip": "Project06_test\\test11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T15:58:01.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test10.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06_test\\Project06_test\\test10.cpp",
+              "RelativeDocumentMoniker": "Project06_test\\test10.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project06_test\\Project06_test\\test10.cpp",
+              "RelativeToolTip": "Project06_test\\test10.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T15:57:55.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
