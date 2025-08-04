@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <vector>
 #include <algorithm>
 
@@ -44,7 +44,7 @@ vector<int> solution(int N, vector<int> stages) {
 	//p.first만 꺼내서 answer에 추가
 
 	return answer;
-}
+}*/
 
 
 /*
