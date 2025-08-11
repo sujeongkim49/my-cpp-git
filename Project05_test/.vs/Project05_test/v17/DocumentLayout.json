@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project05_test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF329CFE-87AB-4555-9A0A-398AEEC37170}|Project05_test\\Project05_test.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project05_test\\Project05_test\\test07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BF329CFE-87AB-4555-9A0A-398AEEC37170}|Project05_test\\Project05_test.vcxproj|solutionrelative:Project05_test\\test07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF329CFE-87AB-4555-9A0A-398AEEC37170}|Project05_test\\Project05_test.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project05_test\\Project05_test\\test06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BF329CFE-87AB-4555-9A0A-398AEEC37170}|Project05_test\\Project05_test.vcxproj|solutionrelative:Project05_test\\test06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF329CFE-87AB-4555-9A0A-398AEEC37170}|Project05_test\\Project05_test.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project05_test\\Project05_test\\test07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF329CFE-87AB-4555-9A0A-398AEEC37170}|Project05_test\\Project05_test.vcxproj|solutionrelative:Project05_test\\test07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF329CFE-87AB-4555-9A0A-398AEEC37170}|Project05_test\\Project05_test.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project05_test\\Project05_test\\test04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,15 +30,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test06.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project05_test\\Project05_test\\test06.cpp",
+              "RelativeDocumentMoniker": "Project05_test\\test06.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project05_test\\Project05_test\\test06.cpp",
+              "RelativeToolTip": "Project05_test\\test06.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T09:12:28.8Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "test07.cpp",
               "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project05_test\\Project05_test\\test07.cpp",
               "RelativeDocumentMoniker": "Project05_test\\test07.cpp",
@@ -47,19 +61,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-04T09:12:35.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "test06.cpp",
-              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project05_test\\Project05_test\\test06.cpp",
-              "RelativeDocumentMoniker": "Project05_test\\test06.cpp",
-              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project05_test\\Project05_test\\test06.cpp",
-              "RelativeToolTip": "Project05_test\\test06.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-04T09:12:28.8Z",
               "EditorCaption": ""
             },
             {
