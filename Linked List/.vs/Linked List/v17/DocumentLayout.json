@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Linked List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD2B4C-97A4-4904-B4BA-7A65A8F62A13}|Linked List\\Linked List.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Linked List\\Linked List\\linked_list2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99FD2B4C-97A4-4904-B4BA-7A65A8F62A13}|Linked List\\Linked List.vcxproj|solutionrelative:Linked List\\linked_list2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD2B4C-97A4-4904-B4BA-7A65A8F62A13}|Linked List\\Linked List.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Linked List\\Linked List\\linked_list1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99FD2B4C-97A4-4904-B4BA-7A65A8F62A13}|Linked List\\Linked List.vcxproj|solutionrelative:Linked List\\linked_list1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "linked_list2.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Linked List\\Linked List\\linked_list2.cpp",
+              "RelativeDocumentMoniker": "Linked List\\linked_list2.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Linked List\\Linked List\\linked_list2.cpp",
+              "RelativeToolTip": "Linked List\\linked_list2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T19:21:24.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "linked_list1.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Linked List\\Linked List\\linked_list1.cpp",
+              "RelativeDocumentMoniker": "Linked List\\linked_list1.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Linked List\\Linked List\\linked_list1.cpp",
+              "RelativeToolTip": "Linked List\\linked_list1.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T19:17:55.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
