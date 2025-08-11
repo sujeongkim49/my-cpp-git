@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project07_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40B87F10-EA39-44AF-A5C7-101E4229A1B8}|Project07_test\\Project07_test.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project07_test\\Project07_test\\test17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40B87F10-EA39-44AF-A5C7-101E4229A1B8}|Project07_test\\Project07_test.vcxproj|solutionrelative:Project07_test\\test17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B87F10-EA39-44AF-A5C7-101E4229A1B8}|Project07_test\\Project07_test.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project07_test\\Project07_test\\test16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40B87F10-EA39-44AF-A5C7-101E4229A1B8}|Project07_test\\Project07_test.vcxproj|solutionrelative:Project07_test\\test16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test17.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project07_test\\Project07_test\\test17.cpp",
+              "RelativeDocumentMoniker": "Project07_test\\test17.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project07_test\\Project07_test\\test17.cpp",
+              "RelativeToolTip": "Project07_test\\test17.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T16:45:14.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test16.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project07_test\\Project07_test\\test16.cpp",
+              "RelativeDocumentMoniker": "Project07_test\\test16.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my css\\Project07_test\\Project07_test\\test16.cpp",
+              "RelativeToolTip": "Project07_test\\test16.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T16:11:33.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
