@@ -1,5 +1,5 @@
-﻿  11_3.cpp
-  11_4.cpp
-  11_5.cpp
+﻿  11_6.cpp
+  11_7.cpp
+C:\Users\sj_ki\OneDrive\Desktop\my cpp\Project11\Project11\11_7.cpp(7,17): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   코드를 생성하고 있습니다...
-  Project11.vcxproj -> C:\Users\sj_ki\OneDrive\Desktop\my css\Project11\x64\Debug\Project11.exe
+  Project11.vcxproj -> C:\Users\sj_ki\OneDrive\Desktop\my cpp\Project11\x64\Debug\Project11.exe
